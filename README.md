@@ -41,4 +41,4 @@ The main gameplay loop combines puzzle solving with story progression:
       ↓
 🎁 Earn Rewards
       ↓
-🔓 Unlock New Level
+
